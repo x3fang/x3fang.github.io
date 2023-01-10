@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>x3fang的博客</title>
+    <link>http://x3fang.github.io/</link>
+    <description>Recent content on x3fang的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Jan 2023 12:32:47 +0800</lastBuildDate><atom:link href="http://x3fang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo PaperMod主题 添加graphcomment评论</title>
+      <link>http://x3fang.github.io/posts/lnet/hugo-papermod%E4%B8%BB%E9%A2%98-%E6%B7%BB%E5%8A%A0graphcomment%E8%AF%84%E8%AE%BA/</link>
+      <pubDate>Sun, 01 Jan 2023 12:32:47 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/hugo-papermod%E4%B8%BB%E9%A2%98-%E6%B7%BB%E5%8A%A0graphcomment%E8%AF%84%E8%AE%BA/</guid>
+      <description>注册账号并添加网站 首先注册一个graphcomment账号graphcomment官网 再添加一个网站网站名字随便填，网站url填:你的git</description>
+    </item>
+    
+    <item>
+      <title>用hugo建站 PaperMod主题</title>
+      <link>http://x3fang.github.io/posts/lnet/%E7%94%A8hugo%E5%BB%BA%E7%AB%99-papermod%E4%B8%BB%E9%A2%98/</link>
+      <pubDate>Sun, 01 Jan 2023 08:39:43 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/%E7%94%A8hugo%E5%BB%BA%E7%AB%99-papermod%E4%B8%BB%E9%A2%98/</guid>
+      <description>首先安装git linux apt-get install git windows: 我推荐在阿里源下载阿里源git下载选择对应版本下载后打开按提示进行安装 安装与部署hugo 先登录root用户 sudo -i 选择一</description>
+    </item>
+    
+    <item>
+      <title>自己做的一个小程序</title>
+      <link>http://x3fang.github.io/posts/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Sun, 01 Jan 2023 08:17:24 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <description>链接小程序 文章评论游客账号:xlyk 密码:12345678 var __semio__params = { graphcommentId: &#34;x3fangblog&#34;, behaviour: { }, } function __semio__onload() { __semio__gc_graphlogin(__semio__params) } (function() { var gc = document.createElement(&#39;script&#39;); gc.type = &#39;text/javascript&#39;; gc.async = true; gc.onload = __semio__onload; gc.defer = true; gc.src = &#39;https://integration.graphcomment.com/gc_graphlogin.js?&#39; + Date.now(); (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(gc);</description>
+    </item>
+    
+    <item>
+      <title>我的世界服务器推荐</title>
+      <link>http://x3fang.github.io/posts/games/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Fri, 30 Dec 2022 21:01:20 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/games/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</guid>
+      <description>本人服务器地址(1.16.5有mod) x3fang-mc-server:21650 推荐服务器地址(1.8.x-最新版无mod) x3fang.tg.wdsj.net 先在他们的官网注册账号:洛花星雨注册账号 文章评论游客账</description>
+    </item>
+    
+    
+  </channel>
+</rss>
