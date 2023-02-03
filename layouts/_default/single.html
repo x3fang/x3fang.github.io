@@ -1,0 +1,102 @@
+﻿{{- define "main" }}
+
+<article class="post-single">
+    <header class="post-header">
+        {{ partial "breadcrumbs.html" . }}
+        <h1 class="post-title">
+            {{ .Title }}
+            {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+        </h1>
+        {{- if .Description }}
+        <div class="post-description">
+            {{ .Description }}
+        </div>
+        {{- end }}
+        {{- if not (.Param "hideMeta") }}
+        <div class="post-meta">
+            {{- partial "post_meta.html" . -}}
+
+            <!--在头部显示可跳转的标签-->
+            &nbsp;|&nbsp;标签: &nbsp;
+            {{- if .Params.tags }}
+            <ul class="post-tags-meta">
+                {{- range $index, $value := ($.GetTerms "tags") }}
+                {{- if eq $index 0}}
+                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+                {{- else }}
+                <a href="{{ .Permalink }}">、{{ .LinkTitle }}</a>
+                {{- end }}
+                {{- end }}
+            </ul>
+            {{- end }}
+
+            <!--访问量-->
+            <!--也可以用twikoo评论带的访问方式，如下：-->
+            <span id="twikoo_visitors"></span>
+            <!--如下是使用busuanzi的方式，记得引入busuanzi的js，如果在其他文件引入了，这里可以不用引入-->
+            {{- partial "translation_list.html" . -}}
+            {{- partial "edit_post.html" . -}}
+            {{- partial "post_canonical.html" . -}}
+        </div>
+        {{- end }}
+    </header>
+    {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+    {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+    {{- if (.Param "ShowToc") }}
+    {{- partial "toc.html" . }}
+    {{- end }}
+
+    {{- if .Content }}
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    <div class="post-content">
+        {{- partial "anchored_headings.html" .Content -}}
+        {{- else }}{{ .Content }}{{ end }}
+    </div>
+    {{- end }}
+
+    {{- if .Param "Reward" }}
+    <div class="post-reward">
+        <div style="padding: 0 0 0 0; margin: 0 0 0 0; width: 100%; font-size:40px; text-align: center;">
+            <div id="QR" style="opacity: 0;">
+                <div id="wechat" style="display: inline-block">
+                    <a class="fancybox" rel="group">
+                        <img id="wechat_qr" src="{{ .Site.Params.WechatPay | absURL }}" alt="wechat_pay">
+                    </a>
+                    <p><font size="7">微信</font></p>
+                </div>
+            </div>
+            <button id="rewardButton"
+                    onclick="
+                    var qr = document.getElementById('QR');
+                    if (qr.style.opacity === '0') {
+                        qr.style.opacity='1';
+                    } else {
+                        qr.style.opacity='0'
+                    }">
+                <span><font size="7">🧧 鼓励</font></span>
+            </button>
+        </div>
+    </div>
+    {{- end }}
+
+    <footer class="post-footer">
+        <h5 id="wc" style="font-size: 1rem;text-align: center;">{{ .FuzzyWordCount }} 字|阅读 {{ .ReadingTime }} 分钟|本文共有<span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-spin"></i></span> 次观看</h5>
+        {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+        <ul class="post-tags">
+            {{- range ($.GetTerms $tags) }}
+            <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+            {{- end }}
+        </ul>
+        {{- if (.Param "ShowPostNavLinks") }}
+        {{- partial "post_nav_links.html" . }}
+        {{- end }}
+        {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+        {{- partial "share_icons.html" . -}}
+        {{- end }}
+    </footer>
+    {{- if (.Param "comments") }}
+    {{- partial "comments.html" . }}
+    {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}

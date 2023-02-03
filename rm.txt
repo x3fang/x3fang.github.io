@@ -1,0 +1,5 @@
+bash bs.sh
+Ctrl+c
+cd public
+git remote set-url origin https://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@github.com/x3fang/x3fang.github.io.git
+git push -u -f origin master

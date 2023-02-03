@@ -1,0 +1,22 @@
+<style>
+    :root {
+        --sys-font-family: "hack";
+        --zh-font-family: "hack";
+        --base-font-family: "hack";
+        --code-font-family: "hack";
+        --article-font-family: "hack";
+    }
+</style>
+
+<script>
+  (function () {
+    const customFont = document.createElement("link");
+    customFont.href =
+      "https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack-subset.css";
+
+    customFont.type = "text/css";
+    customFont.rel = "stylesheet";
+
+    document.head.appendChild(customFont);
+  })();
+</script>

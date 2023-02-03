@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Hackcn";
+    src: url("/fonts/Hack-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Hacken";
+    src: url("/fonts/Hack-Italic.ttf") format("truetype");
+}
