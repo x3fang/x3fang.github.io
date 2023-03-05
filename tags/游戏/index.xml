@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>游戏 on x3fang的博客</title>
+    <link>http://x3fang.github.io/tags/%E6%B8%B8%E6%88%8F/</link>
+    <description>Recent content in 游戏 on x3fang的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Dec 2022 21:01:20 +0800</lastBuildDate><atom:link href="http://x3fang.github.io/tags/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的世界服务器推荐</title>
+      <link>http://x3fang.github.io/posts/games/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Fri, 30 Dec 2022 21:01:20 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/games/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</guid>
+      <description>本人服务器地址(1.16.5有mod) x3fang-mc-server:21650 推荐服务器地址(1.8.x-最新版无mod) x3fang.tg.wdsj.net 先在他们的官网注册账号:洛花星雨注册账号</description>
+    </item>
+    
+  </channel>
+</rss>
