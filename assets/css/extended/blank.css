@@ -291,3 +291,23 @@ body {
 .terms-tags li {
     margin: 5px;
 }
+.list {
+    /* 添加!important表示覆盖默认的设置 */
+    background-image: url("../../img/night.jpg") !important;
+    /* 照片不重复出现 */
+    background-repeat: no-repeat;
+    /* 照片大小 */
+    background-size: 100% 100%;
+    /* 右侧滚动时照片固定大小 */
+    background-attachment: fixed;
+}
+.dark.list {
+    /* 添加!important表示覆盖默认的设置 */
+    background-image: url("../../img/night.jpg") !important;
+    /* 照片不重复出现 */
+    background-repeat: no-repeat;
+    /* 照片大小 */
+    background-size: 100% 100%;
+    /* 右侧滚动时照片固定大小 */
+    background-attachment: fixed;
+}

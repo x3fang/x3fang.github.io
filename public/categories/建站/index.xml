@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>建站 on x3fang的博客</title>
+    <link>http://x3fang.github.io/categories/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on x3fang的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:39:43 +0800</lastBuildDate><atom:link href="http://x3fang.github.io/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用hugo建站 PaperMod主题</title>
+      <link>http://x3fang.github.io/posts/lnet/%E7%94%A8hugo%E5%BB%BA%E7%AB%99-papermod%E4%B8%BB%E9%A2%98/</link>
+      <pubDate>Sun, 01 Jan 2023 08:39:43 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/%E7%94%A8hugo%E5%BB%BA%E7%AB%99-papermod%E4%B8%BB%E9%A2%98/</guid>
+      <description>首先安装git linux apt-get install git windows: 我推荐在阿里源下载阿里源git下载选择对应版本下载后打开按提示进行安装 安装与部署hugo 先登录root用户 sudo -i 选择一</description>
+    </item>
+    
+  </channel>
+</rss>
