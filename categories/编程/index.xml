@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>编程 on x3fang的博客</title>
+    <link>http://x3fang.github.io/categories/%E7%BC%96%E7%A8%8B/</link>
+    <description>Recent content in 编程 on x3fang的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:17:24 +0800</lastBuildDate><atom:link href="http://x3fang.github.io/categories/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自己做的一个小程序</title>
+      <link>http://x3fang.github.io/posts/cn/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Sun, 01 Jan 2023 08:17:24 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/cn/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <description>链接小程序</description>
+    </item>
+    
+    <item>
+      <title>自己做的一个小程序</title>
+      <link>http://x3fang.github.io/posts/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Sun, 01 Jan 2023 08:17:24 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <description>链接小程序</description>
+    </item>
+    
+  </channel>
+</rss>

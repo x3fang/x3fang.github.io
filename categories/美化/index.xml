@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>美化 on x3fang的博客</title>
+    <link>http://x3fang.github.io/categories/%E7%BE%8E%E5%8C%96/</link>
+    <description>Recent content in 美化 on x3fang的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 08 Jun 2023 06:35:27 +0800</lastBuildDate><atom:link href="http://x3fang.github.io/categories/%E7%BE%8E%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>论Alist的美化及搭建(2023年6月5日更新)</title>
+      <link>http://x3fang.github.io/posts/lnet/%E8%AE%BAalist%E7%9A%84%E7%BE%8E%E5%8C%96%E5%8F%8A%E6%90%AD%E5%BB%BA2023%E5%B9%B46%E6%9C%885%E6%97%A5%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Thu, 08 Jun 2023 06:35:27 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/%E8%AE%BAalist%E7%9A%84%E7%BE%8E%E5%8C%96%E5%8F%8A%E6%90%AD%E5%BB%BA2023%E5%B9%B46%E6%9C%885%E6%97%A5%E6%9B%B4%E6%96%B0/</guid>
+      <description>论Alist的美化及搭建(2023/6/5) 前言 我在6月初搭建了我的alist网盘蓝桉双子 可以看到是有看板娘的，而你们的为什么没有呢? 跟我一</description>
+    </item>
+    
+  </channel>
+</rss>

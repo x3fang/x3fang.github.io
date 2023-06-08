@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://x3fang.github.io/sitemap.xml

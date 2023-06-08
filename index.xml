@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>x3fang的博客</title>
+    <link>http://x3fang.github.io/</link>
+    <description>Recent content on x3fang的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 08 Jun 2023 06:35:27 +0800</lastBuildDate><atom:link href="http://x3fang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>论Alist的美化及搭建(2023年6月5日更新)</title>
+      <link>http://x3fang.github.io/posts/lnet/%E8%AE%BAalist%E7%9A%84%E7%BE%8E%E5%8C%96%E5%8F%8A%E6%90%AD%E5%BB%BA2023%E5%B9%B46%E6%9C%885%E6%97%A5%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Thu, 08 Jun 2023 06:35:27 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/%E8%AE%BAalist%E7%9A%84%E7%BE%8E%E5%8C%96%E5%8F%8A%E6%90%AD%E5%BB%BA2023%E5%B9%B46%E6%9C%885%E6%97%A5%E6%9B%B4%E6%96%B0/</guid>
+      <description>论Alist的美化及搭建(2023/6/5) 前言 我在6月初搭建了我的alist网盘蓝桉双子 可以看到是有看板娘的，而你们的为什么没有呢? 跟我一</description>
+    </item>
+    
+    <item>
+      <title>为你的网站注册域名-Github Page部署</title>
+      <link>http://x3fang.github.io/posts/lnet/%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D-github-page%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Sat, 18 Feb 2023 06:43:06 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D-github-page%E9%83%A8%E7%BD%B2/</guid>
+      <description>前言 众所周知 github 在国内访问速度缓慢，所以本片网站可能需要科学上网 准备工作 在腾讯云解析域名的需要添加一条记录，类型CNAME 记录值为 你的gith</description>
+    </item>
+    
+    <item>
+      <title>为你的网站注册域名</title>
+      <link>http://x3fang.github.io/posts/lnet/%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D/</link>
+      <pubDate>Tue, 14 Feb 2023 21:18:33 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D/</guid>
+      <description>我在 2023 年 2 月 13 日时域名审核通过了</description>
+    </item>
+    
+    <item>
+      <title>Hugo PaperMod主题 添加graphcomment评论</title>
+      <link>http://x3fang.github.io/posts/lnet/hugo-papermod%E4%B8%BB%E9%A2%98-%E6%B7%BB%E5%8A%A0graphcomment%E8%AF%84%E8%AE%BA/</link>
+      <pubDate>Sun, 01 Jan 2023 12:32:47 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/hugo-papermod%E4%B8%BB%E9%A2%98-%E6%B7%BB%E5%8A%A0graphcomment%E8%AF%84%E8%AE%BA/</guid>
+      <description>注册账号并添加网站 首先注册一个graphcomment账号graphcomment官网 再添加一个网站网站名字随便填，网站url填:你的git</description>
+    </item>
+    
+    <item>
+      <title>用hugo建站 PaperMod主题</title>
+      <link>http://x3fang.github.io/posts/lnet/%E7%94%A8hugo%E5%BB%BA%E7%AB%99-papermod%E4%B8%BB%E9%A2%98/</link>
+      <pubDate>Sun, 01 Jan 2023 08:39:43 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/lnet/%E7%94%A8hugo%E5%BB%BA%E7%AB%99-papermod%E4%B8%BB%E9%A2%98/</guid>
+      <description>首先安装git linux apt-get install git windows: 我推荐在阿里源下载阿里源git下载选择对应版本下载后打开按提示进行安装 安装与部署hugo 先登录root用户 sudo -i 选择一</description>
+    </item>
+    
+    <item>
+      <title>自己做的一个小程序</title>
+      <link>http://x3fang.github.io/posts/cn/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Sun, 01 Jan 2023 08:17:24 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/cn/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <description>链接小程序</description>
+    </item>
+    
+    <item>
+      <title>自己做的一个小程序</title>
+      <link>http://x3fang.github.io/posts/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Sun, 01 Jan 2023 08:17:24 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/tech/%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <description>链接小程序</description>
+    </item>
+    
+    <item>
+      <title>我的世界服务器推荐</title>
+      <link>http://x3fang.github.io/posts/games/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Fri, 30 Dec 2022 21:01:20 +0800</pubDate>
+      
+      <guid>http://x3fang.github.io/posts/games/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</guid>
+      <description>本人服务器地址(1.16.5有mod) x3fang-mc-server:21650 推荐服务器地址(1.8.x-最新版无mod) x3fang.tg.wdsj.net 先在他们的官网注册账号:洛花星雨注册账号</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://x3fang.github.io/gy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x3fang.github.io/gy/</guid>
+      <description>昵称: x3fang github主页: https://github.com/x3fang QQ: 1845393043 邮箱: 1845393043@qq.com 运动: 乒乓球 理念: 大千世界，无限可能</description>
+    </item>
+    
+    <item>
+      <title>其他</title>
+      <link>http://x3fang.github.io/lt/qt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x3fang.github.io/lt/qt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>技术</title>
+      <link>http://x3fang.github.io/lt/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x3fang.github.io/lt/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏</title>
+      <link>http://x3fang.github.io/lt/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x3fang.github.io/lt/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>阅读和分享</title>
+      <link>http://x3fang.github.io/lt/read/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x3fang.github.io/lt/read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🤝友链</title>
+      <link>http://x3fang.github.io/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://x3fang.github.io/links/</guid>
+      <description>Sulv’s Blog 一个记录技术、阅读、生活的博客 友链格式 | 名称： x3fang的博客 | 网址： https://x3fang.github.io | 图标： https://x3fang.github.io/img/x3fang.png (50x50像素) | 描述： 大千世界，无限可</description>
+    </item>
+    
+  </channel>
+</rss>
